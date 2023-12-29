@@ -1,9 +1,25 @@
-### Hello there! 👋
+<img align='left' src='https://cdn.discordapp.com/attachments/959477385626026024/975700403792515122/profile-first-issue-dark.png' width='30%'/> 
 
-Welcome to my GitHub profile I guess? Well... here's a quick scoop about yours truly:
+<h1 align="left">YOOOOO</h1>
 
+<h3 align="left">
+  I'm a developer (no way)
 
-### 🚀 About Me
+  I respond faster on <a href='https://discord.gg/streamflix'>Discord</a>
+</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/No_image.svg/2048px-No_image.svg.png" width="200"/>
+
+--- BEGIN RANDOM STATS NO ONE READS ---
+
+![face-hh](https://github-readme-stats.vercel.app/api?username=rdwxth&show_icons=true&theme=tokyonight&hide=["issues"])
+
+![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=rdwxth&show_icons=true&theme=tokyonight&layout=compact)
+
+--- END RANDOM STATS NO ONE READS ---
+
 - 🔭 I’m currently working on [Streamflix](https://watch.streamflix.one)!
 - 🌱 I’m currently learning Go and Ruby
 - 👯 I’m open to collaboration on a wide range of projects
@@ -36,7 +52,6 @@ I'm familiar with a variety of programming languages and tools, including but no
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdwxth&theme=discord_old_blurple)](https://github.com/rdwxth)
 
 ### 🌐 Where the hell can you find me?
 - [Discord](https://discord.gg/rdwxth)
