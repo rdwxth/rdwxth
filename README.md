@@ -23,7 +23,7 @@
 - 🔭 I’m currently working on [Streamflix](https://watch.streamflix.one)!
 - 🌱 I’m currently learning Go and Ruby
 - 👯 I’m open to collaboration on a wide range of projects
-- 📫 How to reach me: Discord - rdwxth
+- 📫 How to reach me: Discord - cu3t0m
 
 ### ⚙️ Technologies & Tools
 I'm familiar with a variety of programming languages and tools, including but not limited to:
